@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import math                                         
 
 import numpy as np
-
+print("Esto se hizo desde arriba")
 
 ## Create functions and set domain length
 
